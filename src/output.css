@@ -767,10 +767,6 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.underline{
-  text-decoration-line: underline;
-}
-
 html {
   font-size: 62.5%;
   font-family: "Montserrat", sans-serif;
