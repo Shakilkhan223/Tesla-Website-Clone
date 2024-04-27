@@ -14,7 +14,7 @@ html {
     @apply snap-y snap-mandatory h-screen overflow-scroll transition-all duration-1000 scroll-smooth;
   }
   .nav-bar {
-    @apply flex justify-between w-full fixed top-0 z-10 h-28 px-10 items-center;
+    @apply flex justify-between w-full fixed top-0 z-10 h-28 px-10 items-center bg-slate-400 bg-opacity-20;
   }
   .nav-items {
     @apply text-2xl font-semibold text-slate-900 py-2 px-5 rounded-[1.2rem] md:bg-transparent bg-slate-300 hover:bg-slate-300 duration-500 bg-opacity-40 hover:bg-opacity-40;
